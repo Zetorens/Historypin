@@ -1,0 +1,6 @@
+#map {
+    height: 500px; /* Hauteur de la carte */
+    width: 100%; /* Largeur de la carte */
+    margin: 20px 0; /* Espacement autour de la carte */
+    border: 1px solid #ccc; /* Bordure pour un meilleur visuel */
+}
